@@ -12,7 +12,7 @@ body{
     width: 100%;
     background-repeat: no-repeat;
     background-size: contain;
-    
+/*header  */
 }
 header{
     height: 7vh;
@@ -71,7 +71,7 @@ nav ul, a{
     border: none;
     color: #080808;
 }
-
+/* deciription */
 .deciription{
     margin-top: 2rem;
     width: 100%;
@@ -95,6 +95,7 @@ nav ul, a{
     padding: 0.2rem;
     font-weight: bold;
 }
+/*Hero_Section  */
 
 .Hero_Section{
     margin-top: 3rem;
@@ -148,7 +149,7 @@ nav ul, a{
   justify-content: center;
   background-size: contain;
 }
-
+/* company-logos */
 .company-logos{
     margin-top: 3rem;
     height: 48vh;
@@ -171,7 +172,6 @@ nav ul, a{
     margin-top: 8rem;
     width: 100%;
     height: 20vh;
-
 }
 .Hedding_Text h1{
     margin-top: 0.5rem;
@@ -190,7 +190,7 @@ nav ul, a{
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: 100;
 }
-
+/* contenar_box */
 .contenar_box{
     margin: 8rem;
 }
@@ -202,6 +202,7 @@ nav ul, a{
   grid-template-columns: 1fr 1fr;
   gap: 10rem;
 }
+/* Card_one */
 .Card_one{
     border-radius: 1rem;
     margin:0.5rem;
@@ -235,6 +236,7 @@ nav ul, a{
    text-align: center;
    width: 100%;
 }
+/*Large_contenar  */
 .Large_contenar{
    margin-top: 2rem;
    height: 90vh;
@@ -281,9 +283,11 @@ nav ul, a{
     border-radius: 1rem;
     margin: auto;
 }
+/* contenar */
 .contenar{
     margin: 5rem;
 }
+/*Fetures_section  */
 .Fetures_section{
     background-color: rgba(247, 246, 245, 0.286);
     height: 80vh;
@@ -320,7 +324,7 @@ nav ul, a{
     font-size:1rem;
     margin: 2rem;
 }
-
+/* Fetures_section .Fetures_bloks */
 .Fetures_section .Fetures_bloks{
     margin-top: 1rem;
     height: 40vh;
@@ -344,6 +348,7 @@ nav ul, a{
    font-weight: 300;
    text-align: start;
 }
+/*Layout_img  */
 .Layout_img{
     margin: 6rem;
     height: 70vh;
@@ -386,6 +391,7 @@ nav ul, a{
     margin-left: 3rem;
     text-align: start;
 }
+/* Main_Title */
 .Main_Title{
     margin: 4rem;
     padding: 1rem;
